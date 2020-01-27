@@ -1,0 +1,15 @@
+Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+Not using cached read wrapper
+Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+Stats thread started at 0.419770
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+MemoryStats:
+	AvailablePhysical 2557505536
+	 AvailableVirtual 140732701765632
+	     UsedPhysical 74915840
+	 PeakUsedPhysical 74928128
+	      UsedVirtual 37830656
+	  PeakUsedVirtual 39931904
+Allocator Stats for TBB: (not implemented)
+Windows GetLastError: La operación se completó correctamente. (0)

@@ -1,0 +1,988 @@
+﻿Log file open, 01/12/20 16:47:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BPOW
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173206
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programas/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.12-15.47.04:329][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.12-15.47.04:329][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.12-15.47.04:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:329][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.12-15.47.04:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:329][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.12-15.47.04:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:330][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:333][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.12-15.47.04:333][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.12-15.47.04:334][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.12-15.47.04:334][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.12-15.47.04:334][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.12-15.47.04:352][  0]LogHAL: Display: Platform has ~ 16 GB [17117380608 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.12-15.47.04:353][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.12-15.47.04:353][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.12-15.47.04:353][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Scalability.ini]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.12-15.47.04:354][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Config/Windows/Engine.ini]
+[2020.01.12-15.47.04:354][  0]LogInit: Computer: DESKTOP-GDUFDVK
+[2020.01.12-15.47.04:354][  0]LogInit: User: user
+[2020.01.12-15.47.04:354][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.12-15.47.04:354][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.12-15.47.04:355][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.12-15.47.04:355][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.12-15.47.04:355][  0]LogMemory: Process Physical Memory: 97.86 MB used, 97.86 MB peak
+[2020.01.12-15.47.04:355][  0]LogMemory: Process Virtual Memory: 90.20 MB used, 90.20 MB peak
+[2020.01.12-15.47.04:355][  0]LogMemory: Physical Memory: 5198.82 MB used,  11125.58 MB free, 16324.41 MB total
+[2020.01.12-15.47.04:355][  0]LogMemory: Virtual Memory: 4631.39 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.12-15.47.04:373][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.12-15.47.04:373][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.01.12-15.47.04:545][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.12-15.47.04:595][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.12-15.47.04:595][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.12-15.47.04:804][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.12-15.47.04:804][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.12-15.47.04:863][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.01.12-15.47.04:863][  0]LogD3D11RHI:       4043/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.12-15.47.04:865][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.12-15.47.04:865][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.12-15.47.04:865][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.12-15.47.04:871][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.12-15.47.04:871][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.12-15.47.04:871][  0]LogWindows: EnumDisplayDevices:
+[2020.01.12-15.47.04:871][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.01.12-15.47.04:872][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.12-15.47.04:872][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.12-15.47.04:872][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.01.12-15.47.04:872][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.12-15.47.04:872][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.01.12-15.47.04:872][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2020.01.12-15.47.04:873][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2020.01.12-15.47.04:873][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.01.12-15.47.04:913][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.12-15.47.04:923][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.12-15.47.04:923][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.12-15.47.04:923][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.12-15.47.04:937][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.12-15.47.05:262][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.12-15.47.05:275][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.12-15.47.05:288][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.12-15.47.05:301][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.12-15.47.05:314][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.12-15.47.05:327][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.12-15.47.05:339][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.12-15.47.05:352][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.12-15.47.05:358][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.12-15.47.05:437][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.12-15.47.05:439][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.12-15.47.05:487][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.12-15.47.05:487][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.12-15.47.05:510][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.12-15.47.05:510][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.12-15.47.05:522][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.12-15.47.05:534][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.12-15.47.05:547][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.12-15.47.05:559][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.12-15.47.05:602][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.12-15.47.05:603][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.12-15.47.05:603][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.12-15.47.05:610][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.12-15.47.05:647][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Intermediate/Shaders/WorkingDirectory/7628/).
+[2020.01.12-15.47.05:647][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/2CC2773140BB92412A3EB780DDBD9FA4/'.
+[2020.01.12-15.47.05:648][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.12-15.47.05:648][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.12-15.47.05:648][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.12-15.47.06:203][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.12-15.47.06:257][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/user/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.12-15.47.06:258][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.12-15.47.06:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.12-15.47.06:258][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.12-15.47.06:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.12-15.47.06:258][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.12-15.47.06:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.12-15.47.06:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.12-15.47.06:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.12-15.47.06:282][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.12-15.47.06:282][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.12-15.47.06:282][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.12-15.47.06:307][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.12-15.47.06:308][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.12-15.47.06:309][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.12-15.47.06:400][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2020.01.12-15.47.06:714][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.12-15.47.06:840][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.12-15.47.06:840][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.12-15.47.06:840][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.12-15.47.06:840][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.12-15.47.06:840][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.12-15.47.06:851][  0]LogNetVersion: BPOW 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1085844810)
+[2020.01.12-15.47.07:263][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051498 seconds
+[2020.01.12-15.47.07:269][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.12-15.47.07:269][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.12-15.47.07:269][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.12-15.47.08:143][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.12-15.47.08:156][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.12-15.47.08:260][  0]SourceControl: Source control is disabled
+[2020.01.12-15.47.08:260][  0]SourceControl: Source control is disabled
+[2020.01.12-15.47.08:261][  0]SourceControl: Source control is disabled
+[2020.01.12-15.47.08:262][  0]SourceControl: Source control is disabled
+[2020.01.12-15.47.08:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.12-15.47.08:436][  0]LogOcInput: OculusInput pre-init called
+[2020.01.12-15.47.09:216][  0]LogEngine: Initializing Engine...
+[2020.01.12-15.47.09:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.12-15.47.09:217][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.12-15.47.09:428][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.12-15.47.09:438][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.12-15.47.09:482][  0]LogInit: XAudio2 using 'Altavoces (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-15.47.09:503][  0]LogInit: FAudioDevice initialized.
+[2020.01.12-15.47.09:504][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.12-15.47.09:660][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/user/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.12-15.47.09:668][  0]LogInit: Texture streaming: Enabled
+[2020.01.12-15.47.09:693][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.12-15.47.09:731][  0]LogInit: Transaction tracking system initialized
+[2020.01.12-15.47.09:760][  0]BlueprintLog: New page: Editor Load
+[2020.01.12-15.47.09:827][  0]LocalizationService: Localization service is disabled
+[2020.01.12-15.47.10:124][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.12-15.47.10:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Content/' took 0.02s
+[2020.01.12-15.47.10:124][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.12-15.47.10:286][  0]SourceControl: Source control is disabled
+[2020.01.12-15.47.10:286][  0]Cmd: MAP LOAD FILE="C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.12-15.47.10:286][  0]LightingResults: New page: Lighting Build
+[2020.01.12-15.47.10:288][  0]MapCheck: New page: Map Check
+[2020.01.12-15.47.10:288][  0]LightingResults: New page: Lighting Build
+[2020.01.12-15.47.10:310][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.12-15.47.12:768][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.12-15.47.13:017][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.12-15.47.13:094][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.12-15.47.13:094][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.12-15.47.13:095][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2020.01.12-15.47.13:095][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.808
+[2020.01.12-15.47.13:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-15.47.13:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-15.47.13:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-15.47.13:568][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-15.47.13:581][  0]LogCollectionManager: Loaded 0 collections in 0.001505 seconds
+[2020.01.12-15.47.13:656][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Collections/' took 0.01s
+[2020.01.12-15.47.13:656][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Content/Developers/user/Collections/' took 0.00s
+[2020.01.12-15.47.13:656][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Content/Collections/' took 0.00s
+[2020.01.12-15.47.13:656][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.12-15.47.13:682][  0]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 2732 classes and 659 folders.
+[2020.01.12-15.47.13:719][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.12-15.47.13:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.13:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.14:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.14:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.12-15.47.14:570][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.12-15.47.14:620][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.12-15.47.15:434][  0]LogSlate: Took 0.000635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.12-15.47.15:441][  0]LogSlate: Took 0.000681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.12-15.47.15:488][  0]LogSlate: Took 0.021730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.12-15.47.15:703][  0]LogRenderer: Reallocating scene render targets to support 1184x680 Format 10 NumSamples 1 (Frame:1).
+[2020.01.12-15.47.15:857][  0]LogSlate: Took 0.010833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.12-15.47.15:964][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.12-15.47.15:964][  0]LogLoad: (Engine Initialization) Total time: 13.73 seconds
+[2020.01.12-15.47.15:964][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.12-15.47.16:022][  0]LogAssetRegistry: Asset discovery search completed in 9.6443 seconds
+[2020.01.12-15.47.16:024][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.12-15.47.16:024][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2020.01.12-15.47.16:042][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.12-15.47.20:533][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-15.47.20:641][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.12-15.47.20:656][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-15.47.20:656][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-15.47.20:671][507]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2020, 5:47:20 PM)
+[2020.01.12-15.47.20:687][507]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.12-15.47.20:703][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015652s)
+[2020.01.12-15.47.20:704][507]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.12-15.47.20:704][507]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2020.01.12-15.47.20:704][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016864s)
+[2020.01.12-15.47.20:729][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.12-15.47.20:864][507]LogInit: XAudio2 using 'Altavoces (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-15.47.20:891][507]LogInit: FAudioDevice initialized.
+[2020.01.12-15.47.20:900][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-15.47.20:947][507]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.12-15.47.20:950][507]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.01.12-16.47.20
+[2020.01.12-15.47.21:019][507]LogWorld: Bringing up level for play took: 0.070633
+[2020.01.12-15.47.21:063][507]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.01.12-15.47.21:103][507]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.844
+[2020.01.12-15.47.21:113][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-15.47.21:206][508]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.01.12-15.47.24:712][915]LogScript: Warning: Script Msg: Divide by zero detected: 0.008334 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.28:764][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.008333 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.29:905][538]LogScript: Warning: Script Msg: Divide by zero detected: 0.008334 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.30:205][574]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:213][575]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:221][576]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:229][577]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:238][578]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:246][579]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:255][580]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:263][581]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:271][582]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:280][583]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:288][584]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:296][585]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:305][586]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:313][587]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:321][588]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:330][589]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:338][590]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:347][591]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:355][592]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:363][593]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:372][594]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:380][595]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:388][596]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:397][597]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:405][598]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:413][599]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:422][600]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:430][601]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:438][602]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:447][603]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:455][604]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:463][605]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:472][606]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:480][607]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:489][608]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:497][609]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:505][610]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:514][611]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:522][612]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:530][613]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:539][614]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:547][615]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:555][616]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:564][617]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:572][618]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:579][619]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:588][620]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:596][621]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:605][622]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:613][623]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:621][624]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:630][625]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:638][626]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:646][627]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:655][628]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:663][629]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:671][630]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:680][631]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:688][632]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:696][633]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:705][634]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:713][635]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.30:721][636]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.35:392][196]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.36:242][298]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.36:684][351]LogScript: Warning: Script Msg: Divide by zero detected: 0.008334 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.37:413][438]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.38:163][528]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.38:747][598]LogScript: Warning: Script Msg: Divide by zero detected: 0.008343 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.39:905][737]LogScript: Warning: Script Msg: Divide by zero detected: 0.008334 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.40:906][857]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.41:071][876]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.47.41:737][956]LogScript: Warning: Script Msg: Divide by zero detected: 0.008335 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.46:996][587]LogScript: Warning: Script Msg: Divide by zero detected: 0.008334 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.47.58:624][982]LogScript: Warning: Script Msg: Divide by zero detected: 0.008334 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-15.48.02:093][398]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.02:971][503]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.04:047][632]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.05:647][824]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.06:339][907]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.07:048][992]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.07:497][ 46]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.08:206][131]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.08:848][208]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.09:873][331]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.10:715][432]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.11:248][496]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.12:569][654]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.13:518][768]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.14:477][883]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.15:845][ 47]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-15.48.17:471][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-15.48.17:471][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-15.48.17:487][242]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.12-15.48.17:523][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-15.48.17:523][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-15.48.17:553][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.12-15.48.17:576][243]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.12-15.58.04:053][849]LogSlate: Took 0.000652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.12-16.02.52:222][889]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.01.12-16.02.52:811][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.02.54:401][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.03.20:852][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-16.04.04:026][746]LogSlate: Took 0.584500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.12-16.04.32:073][ 82]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2020.01.12-16.05.47:969][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.23.33:580][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-16.23.44:824][205]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Zombardier/BehaviorTree_Zombardier.BehaviorTree_Zombardier
+[2020.01.12-16.23.45:818][205]LogSlate: Took 0.026342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.12-16.24.01:240][646]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Zomnics/BTTask_LoctaionDoor.BTTask_LoctaionDoor
+[2020.01.12-16.24.02:462][646]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.01.12-16.24.08:224][ 13]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Zombardier/Zombardier.Zombardier
+[2020.01.12-16.24.20:097][799]LogSlate: Took 0.014908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.12-16.24.44:470][833]LogEditorViewport: Clicking on Actor (LMB): Zombardier_C (Zombardier)
+[2020.01.12-16.24.58:237][100]Cmd: POLY SELECT ADJACENT WALLS
+[2020.01.12-16.25.06:238][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.25.07:471][838]BlueprintLog: New page: Compile Zombardier
+[2020.01.12-16.25.08:353][838]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.01.12-16.25.15:883][507]Cmd: TRANSACTION UNDO
+[2020.01.12-16.25.15:883][507]LogEditorTransaction: Undo Move Actors
+[2020.01.12-16.25.27:608][530]Cmd: POLY SELECT ADJACENT WALLS
+[2020.01.12-16.25.27:766][546]Cmd: POLY SELECT MEMORY UNION
+[2020.01.12-16.25.29:115][688]Cmd: POLY SELECT MEMORY UNION
+[2020.01.12-16.25.29:742][749]Cmd: POLY SELECT ADJACENT WALLS
+[2020.01.12-16.25.47:062][375]Cmd: POLY SELECT MEMORY UNION
+[2020.01.12-16.26.03:522][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.26.05:045][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.27.19:761][985]BlueprintLog: New page: Compile BTTask_LoctaionDoor
+[2020.01.12-16.27.19:972][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.01.12-16.27.22:638][230]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.12-16.27.22:671][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.27.22:673][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-16.27.22:673][230]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2020, 6:27:22 PM)
+[2020.01.12-16.27.22:673][230]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.12-16.27.22:692][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018273s)
+[2020.01.12-16.27.22:692][230]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.12-16.27.22:692][230]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.01.12-16.27.22:693][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019481s)
+[2020.01.12-16.27.22:737][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.01.12-16.27.22:772][230]LogInit: XAudio2 using 'Altavoces (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-16.27.22:790][230]LogInit: FAudioDevice initialized.
+[2020.01.12-16.27.22:800][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-16.27.22:831][230]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.12-16.27.22:834][230]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.01.12-17.27.22
+[2020.01.12-16.27.22:834][230]LogWorld: Bringing up level for play took: 0.002456
+[2020.01.12-16.27.22:853][230]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.594
+[2020.01.12-16.27.23:354][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.27.26:583][548]LogScript: Warning: Script Msg: Divide by zero detected: 0.008542 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-16.27.31:257][  8]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:266][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.009496 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-16.27.32:814][158]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:822][159]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:830][160]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:848][161]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:858][162]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:868][163]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:878][164]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:886][165]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:897][166]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:905][167]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:913][168]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:923][169]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:931][170]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:940][171]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:949][172]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:958][173]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:966][174]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:974][175]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:984][176]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.32:992][177]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.33:001][178]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.33:012][179]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.33:026][180]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.33:039][181]LogBlueprintUserMessages: [Zombardier_2] false
+[2020.01.12-16.27.34:321][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.27.34:325][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-16.27.34:343][309]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.12-16.27.34:380][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-16.27.34:380][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.27.34:428][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.01.12-16.27.34:447][310]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.12-16.28.22:121][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.12-16.28.22:974][373]LogSavePackage: Moving 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/FirstPersonExampleMap_Auto16E379E4547B467C2819E8EA1281CE602.tmp' to 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.01.12-16.28.22:985][373]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.903
+[2020.01.12-16.28.22:986][373]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.903
+[2020.01.12-16.28.22:990][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombardier/Zombardier] ([1] browsable assets)...
+[2020.01.12-16.28.23:013][373]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombardier/Zombardier.Zombardier]
+[2020.01.12-16.28.23:013][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombardier/Zombardier]
+[2020.01.12-16.28.23:109][373]LogSavePackage: Moving 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Zombardier_Auto153216E254D2A4D606F92FDA2842088BC.tmp' to 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Autosaves/Game/Zombardier/Zombardier_Auto1.uasset'
+[2020.01.12-16.28.23:110][373]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zomnics/BTTask_LoctaionDoor] ([1] browsable assets)...
+[2020.01.12-16.28.23:110][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zomnics/BTTask_LoctaionDoor]
+[2020.01.12-16.28.23:147][373]LogSavePackage: Moving 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/BTTask_LoctaionDoor_Auto19F56BDD647B423479B970792B90E254A.tmp' to 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Autosaves/Game/Zomnics/BTTask_LoctaionDoor_Auto1.uasset'
+[2020.01.12-16.28.23:151][373]LogFileHelpers: Auto-saving content packages took 0.163
+[2020.01.12-16.32.26:370][362]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Zomnics/Zomnics.Zomnics
+[2020.01.12-16.32.43:837][  7]LogEditorViewport: Clicking on Actor (double click): Zombardier_C (Zombardier)
+[2020.01.12-16.32.44:098][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2020.01.12-16.32.44:644][ 61]LogEditorViewport: Clicking on Actor (LMB): Zombardier_C (Zombardier)
+[2020.01.12-16.32.47:910][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-16.32.54:307][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-16.32.59:926][393]LogEditorViewport: Clicking on Actor (LMB): Zombardier_C (Zombardier)
+[2020.01.12-16.33.01:424][527]Cmd: DELETE
+[2020.01.12-16.33.01:424][527]Cmd: ACTOR DELETE
+[2020.01.12-16.33.02:058][527]LogEditorActor: Deleted Actor: Zombardier_C
+[2020.01.12-16.33.02:141][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.12-16.33.02:142][527]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2020.01.12-16.33.03:727][706]LogEditorViewport: Clicking on Actor (LMB): Zomnics_C (Zomnics)
+[2020.01.12-16.33.06:907][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.33.08:477][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-16.33.08:568][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.12-16.33.08:603][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.33.08:605][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.12-16.33.08:605][173]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2020, 6:33:08 PM)
+[2020.01.12-16.33.08:605][173]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.12-16.33.08:622][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016275s)
+[2020.01.12-16.33.08:622][173]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.12-16.33.08:623][173]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2020.01.12-16.33.08:624][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018256s)
+[2020.01.12-16.33.08:671][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.12-16.33.08:705][173]LogInit: XAudio2 using 'Altavoces (Logitech G430 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.12-16.33.08:725][173]LogInit: FAudioDevice initialized.
+[2020.01.12-16.33.08:733][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-16.33.08:770][173]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.12-16.33.08:773][173]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.01.12-17.33.08
+[2020.01.12-16.33.08:773][173]LogWorld: Bringing up level for play took: 0.002303
+[2020.01.12-16.33.08:795][173]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.536
+[2020.01.12-16.33.08:795][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.33.10:262][314]LogScript: Warning: Script Msg: Divide by zero detected: 0.011025 / 0
+Script call stack:
+	Function /Game/FirstPersonBP/Blueprints/Abilities/Ability.Ability_C:ManageTimer
+
+[2020.01.12-16.33.18:039][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.33.18:042][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.12-16.33.18:065][ 81]LogSlate: Window 'BPOW Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.12-16.33.18:099][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.12-16.33.18:099][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.12-16.33.18:152][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.12-16.33.18:172][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.12-16.33.20:303][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.12-16.33.45:762][446]LogEditorViewport: Clicking on Actor (LMB): Zomnics_C (Zomnics)
+[2020.01.12-16.33.46:659][524]LogEditorViewport: Clicking on Actor (LMB): Zomnics_C (Zomnics)
+[2020.01.12-16.33.49:043][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.33.50:444][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.33.51:822][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.33.59:535][790]LogEditorViewport: Clicking on Actor (LMB): Zomnics_C (Zomnics)
+[2020.01.12-16.34.02:849][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.34.04:623][170]BlueprintLog: New page: Compile Zomnics
+[2020.01.12-16.34.04:970][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.01.12-16.34.27:979][276]LogEditorViewport: Clicking on Actor (LMB): Zomnics_C (Zomnics)
+[2020.01.12-16.34.55:494][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.35.00:785][146]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Zomnics/BehaviorTree_Zomnics.BehaviorTree_Zomnics
+[2020.01.12-16.38.32:976][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.01.12-16.38.33:271][457]LogSavePackage: Moving 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/FirstPersonExampleMap_Auto2D635415140E0D865EE3B1B9D8AECDFE0.tmp' to 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.01.12-16.38.33:276][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.358
+[2020.01.12-16.38.33:276][457]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2020.01.12-16.38.33:283][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zomnics/Zomnics] ([1] browsable assets)...
+[2020.01.12-16.38.33:296][457]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zomnics/Zomnics.Zomnics]
+[2020.01.12-16.38.33:296][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zomnics/Zomnics]
+[2020.01.12-16.38.33:361][457]LogSavePackage: Moving 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Zomnics_Auto2EC4ED46B41704F1DB2BCF9B93C543C05.tmp' to 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Autosaves/Game/Zomnics/Zomnics_Auto2.uasset'
+[2020.01.12-16.38.33:363][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zomnics/BTTask_LoctaionDoor] ([1] browsable assets)...
+[2020.01.12-16.38.33:363][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zomnics/BTTask_LoctaionDoor]
+[2020.01.12-16.38.33:401][457]LogSavePackage: Moving 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/BTTask_LoctaionDoor_Auto23842CA4D4EE7D5B667E151B85F1382AF.tmp' to 'C:/Users/user/Desktop/DAM-VIOD/Unreal/OWBP_02_Bernat_Grifol_Belio/BPOW-master/BPOW/Saved/Autosaves/Game/Zomnics/BTTask_LoctaionDoor_Auto2.uasset'
+[2020.01.12-16.38.33:403][457]LogFileHelpers: Auto-saving content packages took 0.120
+[2020.01.12-16.42.10:481][203]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door.Door
+[2020.01.12-16.43.59:605][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.12-16.44.01:693][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.12-16.44.56:635][501]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.12-16.44.56:651][501]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.12-16.44.56:651][501]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New
+[2020.01.12-16.44.56:984][501]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Zomnics/BTTask_LoctaionDoor_New.
+[2020.01.12-16.48.03:173][746]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.03:176][746]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.03:227][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.12-16.48.03:235][746]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3661.00] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 61 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.09:995][291]BlueprintLog: New page: Compile Door
+[2020.01.12-16.48.10:212][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.01.12-16.48.11:845][411]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.11:848][411]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.11:893][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.12-16.48.11:900][411]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3669.67] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 54 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.12:399][452]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.12:402][452]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.12:447][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.01.12-16.48.12:457][452]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3670.22] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 57 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.12:561][460]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.12:563][460]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.12:608][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.12-16.48.12:616][460]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3670.38] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 55 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.12:713][468]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.12:716][468]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.12:760][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.01.12-16.48.12:767][468]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3670.53] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 52 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.12:862][475]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.12:864][475]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.12:906][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.12-16.48.12:915][475]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3670.68] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 53 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.12:998][482]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.13:001][482]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.13:046][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.12-16.48.13:054][482]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3670.82] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 55 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.13:161][490]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.13:163][490]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.13:207][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.01.12-16.48.13:215][490]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3670.98] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 53 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.13:298][497]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.13:300][497]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.13:342][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.01.12-16.48.13:350][497]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3671.12] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 52 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.13:478][507]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.13:480][507]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.13:525][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.12-16.48.13:532][507]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3671.30] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 54 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.13:616][514]BlueprintLog: New page: Compile BTTask_LoctaionDoor_New
+[2020.01.12-16.48.13:619][514]LogBlueprint: Error: [Compiler BTTask_LoctaionDoor_New] The property associated with  Door  could not be found in '/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New_C'
+[2020.01.12-16.48.13:664][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.01.12-16.48.13:673][514]LogBlueprint: Warning: [Compiler BTTask_LoctaionDoor_New] [3671.44] Compile of BTTask_LoctaionDoor_New failed. 1 Fatal Issue(s) 0 Warning(s) [in 57 ms] (/Game/Zomnics/BTTask_LoctaionDoor_New.BTTask_LoctaionDoor_New)
+[2020.01.12-16.48.30:685][850]BlueprintLog: New page: Compile Zomnics
+[2020.01.12-16.48.30:701][850]LogClass: Warning: Type mismatch in Door of Zomnics_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.01.12-16.48.30:702][850]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.12-16.48.33:149][850]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.447 s
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: 
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '0.000000'! You must pass in fully qualified package names
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: Stack: 
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5f224a77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5f167a66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5f0a9457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5f0bb07a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5f0b4841 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5f10683e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd5ee6def4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3e281e14 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd32f6047d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd32f916a8 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3f538613 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3f4ef561 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3f4a20f6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3e2c5644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3f58dde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd3f5a9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd4360180a UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd436d9122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd436baa84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd43772a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd435c4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd43640301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd4362aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd43620414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd783eb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd783def9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd783ed77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd783dc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd8d9b63ed USER32.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd8d9b5de2 USER32.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ffd783ee946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ff63dde5d3e UE4Editor.exe!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ff63ddf554c UE4Editor.exe!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ff63ddf55ca UE4Editor.exe!UnknownFunction []
+[2020.01.12-16.48.33:149][850]LogOutputDevice: Error: [Callstack] 0x00007ff63de0316c UE4Editor.exe!UnknownFunction []
+[2020.01.12-16.48.33:150][850]LogOutputDevice: Error: [Callstack] 0x00007ff63de05b8e UE4Editor.exe!UnknownFunction []
+[2020.01.12-16.48.33:150][850]LogOutputDevice: Error: [Callstack] 0x00007ffd8ef77bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.12-16.48.33:150][850]LogOutputDevice: Error: [Callstack] 0x00007ffd8f22ced1 ntdll.dll!UnknownFunction []
+[2020.01.12-16.48.33:150][850]LogOutputDevice: Error: 
+[2020.01.12-16.48.33:157][850]LogStats:                SubmitErrorReport -  0.000 s
